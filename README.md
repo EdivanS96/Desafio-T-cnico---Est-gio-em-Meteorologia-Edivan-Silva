@@ -35,7 +35,7 @@ O script baixa arquivos GRIB de precipitação do modelo MERGE do CPTEC/INPE, re
 
 Este trecho do código:
 
-1. Lê os arquivos GRIB e soma a precipitação para obter o acumulado.
+1. Lê os arquivos GRIB baixados no exercicio 1 e soma a precipitação para obter o acumulado.
 2. Define uma paleta de cores e intervalos para visualização dos dados.
 3. Plota um mapa usando `cartopy`, adicionando contornos e uma legenda para os valores de precipitação.
 4. Salva a figura resultante como `Precip_Acumulada.png`.
