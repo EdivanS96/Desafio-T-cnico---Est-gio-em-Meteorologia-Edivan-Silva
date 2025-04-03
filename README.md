@@ -40,7 +40,7 @@ Este trecho do código:
 3. Plota um mapa usando `cartopy`, adicionando contornos e uma legenda para os valores de precipitação.
 4. Salva a figura resultante como `Precip_Acumulada.png`.
 
-### Exercício 3 - Extração de Valores de Precipitação da Bacia do Grande
+### Exercício 3 - Extração de Valores de Precipitação da Bacia do Rio Grande
 
 O script faz a análise espacial da precipitação na Bacia do Rio Grande:
 
@@ -77,7 +77,7 @@ O script faz a análise espacial da precipitação na Bacia do Rio Grande:
 
 Este repositório representa uma solução para o desafio técnico proposto, que visa demostrar habilidades em análise e processamento de dados meteorológicos. Para sugestões e melhorias, entre em contato!
 
-**Desenvolvido por:** *Edivan Silva*
+**Desenvolvido por:** *Edivan Silva*.
 Estudante de graduação em Meteorologia 
 Universidade Federal de Campina Grande (UFCG)
 
