@@ -78,4 +78,6 @@ O script faz a análise espacial da precipitação na Bacia do Rio Grande:
 Este repositório representa uma solução para o desafio técnico proposto, que visa demostrar habilidades em análise e processamento de dados meteorológicos. Para sugestões e melhorias, entre em contato!
 
 **Desenvolvido por:** *Edivan Silva*
+Estudante de graduação em Meteorologia 
+Universidade Federal de Campina Grande (UFCG)
 
