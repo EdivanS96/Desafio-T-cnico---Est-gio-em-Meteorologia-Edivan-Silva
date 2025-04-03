@@ -1,6 +1,6 @@
 # Desafio Técnico - Estágio em Meteorologia (Ampere)
 
-Este repositório contém a solução do desafio técnico para a vaga de estágio em Meteorologia na empresa Ampere, desenvolvido por **Edivan Silva**.
+Este repositório contém a solução do desafio técnico para a vaga de estágio em Meteorologia na empresa Ampere Consultoria.
 
 ## Sobre o Projeto
 
